@@ -1,1 +1,1 @@
-# SCPPDB.
+# SCPPDB
